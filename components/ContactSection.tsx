@@ -13,14 +13,14 @@ export default function ContactSection({ contactRef }: ContactSectionProps) {
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold mb-4 text-white">Contáctenos</h2>
           <p className="text-gray-300 max-w-2xl mx-auto">
-            Estamos listos para ayudarle con sus necesidades de transporte. Complete el formulario y nos pondremos en
+            Estamos listos para ayudarle con sus necesidades. Complete el formulario y nos pondremos en
             contacto con usted a la brevedad.
           </p>
         </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
           <div className="bg-gray-900 p-6 rounded-lg border border-gray-700">
-            <h3 className="text-xl font-semibold mb-6 text-white">Formulario de Contacto</h3>
+            <h3 className="text-xl font-semibold mb-6 text-white">Contactanos para ayudarte</h3>
 
             <form className="space-y-4">
               <div>
