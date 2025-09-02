@@ -4,8 +4,6 @@ import type React from "react"
 
 import { useState, useEffect, useRef } from "react"
 
-// Import components
-
 import Footer from "@/components/Footer"
 import WhatsAppButton from "@/components/WhatsAppButton"
 import Navbar from "@/components/Navbar"

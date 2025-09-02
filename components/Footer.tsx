@@ -28,17 +28,6 @@ export default function Footer() {
               <Instagram className="h-6 w-6" />
               <span className="sr-only">Instagram</span>
             </a>
-            <a
-              href="https://wa.me/56985033753"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gray-400 hover:text-white transition-colors"
-            >
-              <div className="relative h-6 w-6">
-                <Image src="/images/whatsapp.png" alt="WhatsApp" fill sizes="24px" className="object-contain" />
-              </div>
-              <span className="sr-only">WhatsApp</span>
-            </a>
           </div>
         </div>
 
