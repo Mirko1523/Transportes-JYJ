@@ -32,7 +32,7 @@ export default function Navbar({
 
   return (
     <header className="fixed top-0 left-0 right-0 z-50 bg-gray-900/90 backdrop-blur-sm border-b border-gray-800">
-      <div className="container mx-auto px-4 py-3">
+      <div className="container mx-auto px-4 py-6">
         <div className="flex items-center justify-between">
           <div className="flex items-center">
             <div className="h-10 w-10 rounded-full bg-white flex items-center justify-center overflow-hidden mr-2">

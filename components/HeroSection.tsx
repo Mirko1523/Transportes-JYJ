@@ -18,7 +18,7 @@ export default function HeroSection({ homeRef, scrollToSection, servicesRef, con
         <div className="flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 mb-8 md:mb-0 md:pr-8">
             <h1 className="text-4xl md:text-5xl font-bold mb-4 text-white">
-              Especialistas en Transporte de Carga Pesada
+              Especialistas en Transporte de Carga Pesada para todo Chile
             </h1>
             <p className="text-gray-300 text-lg mb-8">
               Ofrecemos soluciones de transporte confiables y seguras para sus necesidades de carga pesada, con equipos

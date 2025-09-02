@@ -29,7 +29,6 @@ export default function PortfolioSection({ portfolioRef }: PortfolioSectionProps
             </div>
             <div className="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
               <div className="text-center p-4">
-                <h3 className="text-xl font-semibold text-white mb-2">Proyecto 1</h3>
                 <p className="text-gray-200 text-sm">Transporte de módulos prefabricados</p>
               </div>
             </div>
@@ -46,7 +45,6 @@ export default function PortfolioSection({ portfolioRef }: PortfolioSectionProps
             </div>
             <div className="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
               <div className="text-center p-4">
-                <h3 className="text-xl font-semibold text-white mb-2">Proyecto 2</h3>
                 <p className="text-gray-200 text-sm">Servicios de grúa para carga pesada</p>
               </div>
             </div>
@@ -63,7 +61,6 @@ export default function PortfolioSection({ portfolioRef }: PortfolioSectionProps
             </div>
             <div className="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
               <div className="text-center p-4">
-                <h3 className="text-xl font-semibold text-white mb-2">Proyecto 3</h3>
                 <p className="text-gray-200 text-sm">Transporte de carga especial por carretera</p>
               </div>
             </div>

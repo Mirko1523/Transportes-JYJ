@@ -25,7 +25,7 @@ export default function ContactSection({ contactRef }: ContactSectionProps) {
             <form className="space-y-4">
               <div>
                 <label htmlFor="fullName" className="block text-sm font-medium text-gray-300 mb-1">
-                  Nombre y Apellido *
+                  Nombre Completo *
                 </label>
                 <input
                   type="text"
@@ -64,7 +64,7 @@ export default function ContactSection({ contactRef }: ContactSectionProps) {
 
               <div>
                 <label htmlFor="message" className="block text-sm font-medium text-gray-300 mb-1">
-                  Mensaje *
+                  Tu Mensaje *
                 </label>
                 <textarea
                   id="message"
